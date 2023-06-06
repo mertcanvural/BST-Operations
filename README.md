@@ -9,6 +9,6 @@ To test this hypothesis, a vector consisting of a certain number of elements is 
 
 The main hypothesis is that balanced trees tend to require fewer comparisons compared to unbalanced trees. This hypothesis is based on the principle that balanced trees maintain a more even distribution of elements, leading to shorter search paths and quicker retrieval of data.
 
-The project employs various tree-building algorithms and implements common binary tree operations such as insertion, deletion, and searching. Each operation's execution time is measured, and the number of comparisons made during the operation is recorded.
+The project employs various tree-building algorithms and implements common binary tree operations such as insertion, deletion, and searching. The number of comparisons made during the operation is recorded.
 
 By analyzing the collected data, the project aims to provide empirical evidence supporting the hypothesis that balanced trees exhibit superior performance in terms of reducing the number of comparisons required for common operations. This knowledge can contribute to a better understanding and decision-making when designing and implementing tree-based data structures in various applications.
